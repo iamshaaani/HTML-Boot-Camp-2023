@@ -5,3 +5,4 @@ HTML Boot Camp 2023 <br>
 - [HTML Attributes?](https://www.youtube.com/@Productmanagemententrepreneur)
 - [HTML Heading?](https://www.youtube.com/@Productmanagemententrepreneur)
 - [HTML Paragraph?](https://www.youtube.com/@Productmanagemententrepreneur)
+- [HTML Styles?](https://www.youtube.com/@Productmanagemententrepreneur)
